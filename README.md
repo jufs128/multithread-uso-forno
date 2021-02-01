@@ -12,7 +12,7 @@
   A única entrada é um inteiro que representa o número de vezes que os personagens vão utlizar o forno. Por exemplo, se a entrada for 2, cada personagem vai entrar na fila para usar o forno duas vezes.
   
 ## Compilação
-  Na pasta archives está incluso um Makefile, basta digitar make no prompt de comando da pasta onde se encontra.
+  Na pasta code está incluso um Makefile, basta digitar make no prompt de comando da pasta onde se encontra.
 
 ## Execução
   A execução deve ser feito na linha de comando, passando o número de vezes em que cada um utilizará o forno. Por exemplo:
